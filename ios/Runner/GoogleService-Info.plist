@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>376348493214-1daov7rd040hq6p5ur6ajui358u0gngk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.376348493214-1daov7rd040hq6p5ur6ajui358u0gngk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBka_PXLoA2th9WgrbhJwDCUGmclwTZvSw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>376348493214</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.motainfo.cloneUberApp</string>
+	<key>PROJECT_ID</key>
+	<string>ubercloneflutter-27b40</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ubercloneflutter-27b40.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:376348493214:ios:ed15685e96d0b0ed06c28f</string>
+</dict>
+</plist>
